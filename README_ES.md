@@ -1,6 +1,6 @@
 <h1 align="center">Fylo Dark Theme Landing Page</h1>
 <p align="left">
-  <a href="README_ES.md" target="_blank">
+  <a href="README.md" target="_blank">
     View README in English
   </a>
 </p>
