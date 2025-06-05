@@ -49,5 +49,5 @@
 3. Explora la página de inicio de "Fylo Dark Theme" y observa la implementación de los conceptos aprendidos.
 
 <p>Este proyecto ha sido una valiosa experiencia de aprendizaje y práctica, contribuyendo al crecimiento y consolidación de habilidades esenciales en el desarrollo frontend.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/FyloDarkThemeLandingPage/">aquí</a></p>
+<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/fylo-dark-theme-landing-page/">aquí</a></p>
 <img src="fylo-dark-theme-landing-page.png" alt="Project Image" title="Project Image" />
